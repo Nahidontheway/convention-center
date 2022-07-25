@@ -26,7 +26,7 @@ section h1{
     margin-bottom: 50px;
 }
 .card-group{
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 .card{
@@ -34,4 +34,11 @@ section h1{
 }
 .card:nth-child(3){
     margin-right: 0;
+}
+.card-group .fa-solid{
+    color: blue;
+}
+.pakages{
+    width: 95%;
+    margin: 0 auto;
 }
