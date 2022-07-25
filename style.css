@@ -42,3 +42,6 @@ section h1{
     width: 95%;
     margin: 0 auto;
 }
+.diff .fa-solid{
+    color: white;
+}
