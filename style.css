@@ -3,9 +3,35 @@ body{
     background: lightcyan;
     font-family: 'Poppins', sans-serif;
 }
+header{
+    /* margin-bottom: 100px; */
+}
+.head a{
+    font-weight: 700;
+}
 nav ul li{
-    width: 85px;
+    width: 90px;
 }
 .slide button{
-    
+    font-weight: 600;
+}
+.justify-content-center{
+    margin: 50px;
+}
+.img-fluid {
+    max-width: 150%;
+    height: auto;
+}
+section h1{
+    margin-bottom: 50px;
+}
+.card-group{
+    width: 90%;
+    margin: 0 auto;
+}
+.card{
+    margin-right: 15px;
+}
+.card:nth-child(3){
+    margin-right: 0;
 }
